@@ -13,7 +13,9 @@
   <img align="center" alt="Jr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jr-Java" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Jr-Java" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Jr-Java" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
- </div>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
