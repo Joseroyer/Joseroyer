@@ -1,4 +1,7 @@
 ## Bem-vindo ao meu Perfil!
+
+Estudante de Bacharelado em Sistemas de Informação - UNOESTE
+
 <div align="center">
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseroyer&show_icons=true&theme=tokyonight&&include_all_commits=true&count_private=true">
