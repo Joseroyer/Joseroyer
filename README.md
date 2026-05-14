@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseroyer/">
+  <a href="https://www.linkedin.com/in/josé-renato-cunha-royer-859a2b233/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jrenato_royer@outlook.com">
@@ -108,12 +108,6 @@ Tenho **24 anos** e **4 anos de experiência** desenvolvendo software no mundo r
 </div>
 
 ---
-
-### 🐍 Contribuições
-
-<div align="center">
-  <img src="https://github.com/Joseroyer/Joseroyer/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 
 ---
 
