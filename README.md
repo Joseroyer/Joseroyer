@@ -26,7 +26,6 @@
 
 <!-- ====== SOBRE MIM ====== -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> &nbsp; **Sobre mim**
-<img align="right" height="220" src="https://raw.githubusercontent.com/devSouzx/devSouzx/output/github-snake-dark.svg" />
 
 > 💼 &nbsp; Tenho **24 anos** e **4 anos de experiência** desenvolvendo software no mundo real — sistemas que rodam em produção, processando informações fiscais, tributárias, judiciais, cadastrais e de compliance acessadas por **centenas de fontes públicas**.
 
